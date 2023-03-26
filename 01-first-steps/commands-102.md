@@ -43,7 +43,7 @@ await interaction.editReply('Edited pong!');
 ## Deferring Responses
 One of the most painful things you might encounter is an error that says `Unknown interaction`.
 
-This mostly appears because Discord requires your bot to respond with *three seconds* to prove that it received the slash command. However there are commands that will take longer than that time to be processed. This is where deferring responses omes in to save the day. 
+This mostly appears because Discord requires your bot to respond within *three seconds* to prove that it received the slash command. However there are commands that will take longer than that time to be processed. This is where deferring responses comes in to save the day. 
 
 If we are to take the above ping command and defer its reply, we have:
 
