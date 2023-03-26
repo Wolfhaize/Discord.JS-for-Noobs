@@ -2,7 +2,7 @@
 
 ## Intro
 
-If you're reading this, it probably means you want to learn how to make a bot with discord.js. Awesome! You've come to the wrong place. You're better off checking with the docs at [Discord.JS](https://discordjs.guide/#before-you-begin), cause the people there actually know what they're talking about.
+If you're reading this, it probably means you want to learn how to make a bot with discord.js. Awesome! You've come to the wrong place. You're better off checking with the docs at [Discord.js](https://discordjs.guide/#before-you-begin), cause the people there actually know what they're talking about.
 
 But if you choose to stay, this guide will show(hopefully teach) you how to:
 
