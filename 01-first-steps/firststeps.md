@@ -29,15 +29,15 @@ The original Discord.Js guide page gives you a bunch of links to help get starte
 
 Feel free to create a new [issue here](https://github.com/Wolfhaize/Discord.JS-for-Noobs/issues), if you want to correct me somewhere, or something's not quite going as I say it should.
 
-Or you can create a new [pull request here](https://github.com/Wolfhaize/Discord.JS-for-Noobs/pulls), if yu want to contribute to this guide. 
+Or you can create a new [pull request here](https://github.com/Wolfhaize/Discord.JS-for-Noobs/pulls), if you want to contribute to this guide. 
 
-If you've never created a pull request before, [try it here first](https://github.com/Wolfhaize/Github-contribution-for-Noobs)
+If you've never created a pull request before, [try it here first](https://github.com/Wolfhaize/Github-contribution-for-Noobs).
 
 
 # Installing Stuff
 I'll assume this part is pretty direct in the original docs. So I'll skip it.
 
-Also all of this is based on if you're using [Visual Studio Code](https://code.visualstudio.com/) as an IDE. I highly suggest it for anyone who wants to stay sane wile writing code.
+Also all of this is based on if you're using [Visual Studio Code](https://code.visualstudio.com/) as an IDE. I highly suggest it for anyone who wants to stay sane while writing code.
 
 
 If you've gotten this far, you should have your bot already in a discord server, and with all requirements installed and setup as instructed, with the next step being writing code/getting it online.
