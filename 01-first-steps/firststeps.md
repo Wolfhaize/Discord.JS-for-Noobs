@@ -1,4 +1,4 @@
-# Discord.Js For Noobs
+# Discord.js For Noobs
 
 ## Intro
 
