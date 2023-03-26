@@ -100,7 +100,7 @@ Before using these, you must enable them in your app's settings. In the Develope
 
 These intents will allow your bot to keep track of things like the content of particular messages, when new members join, number of members online...etc
 
-I'm choosing to insert them into the code for you now, because during my struggles, I completely forgot these existed and spent way too long not knowing why some of my commands weren't working.th
+I'm choosing to insert them into the code for you now, because during my struggles, I completely forgot these existed and spent way too long not knowing why some of my commands weren't working.
 
 **Note**
 If your bot reaches 100 servers, you'll have to apply for verification from Discord to keep access to these intents.
