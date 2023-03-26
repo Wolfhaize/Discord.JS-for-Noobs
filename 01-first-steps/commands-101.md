@@ -192,5 +192,9 @@ It's safe to say that you could have gotten to this point using just the origina
 
 The next stage will do exactly that, and show you additional details that you can apply to make your own commands.
 
+Remember to run `node deploy-commands.js` whenever you make changes to a command so its updated. 
+
+You can however create a command to do this directly, the original docs have a tutorial for that [here](https://discordjs.guide/additional-features/reloading-commands.html)
+
 **Tip**
 Get a close friend or two, so you can show off to them every single time your bot does something that works. Its pretty cool.
