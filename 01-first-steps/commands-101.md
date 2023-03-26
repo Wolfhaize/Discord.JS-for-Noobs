@@ -48,8 +48,8 @@ In the old days, devs would just have one file with all their commands and exces
 24 }
 25
 26 client.once(Events.ClientReady, () => {
-27	console.log('Ready!');
-28 });
+	console.log('Ready!');
+ });
 
 client.on(Events.InteractionCreate, async interaction => {
 	if (!interaction.isChatInputCommand()) return;
