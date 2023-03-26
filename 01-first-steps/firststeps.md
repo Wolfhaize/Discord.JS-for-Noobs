@@ -107,7 +107,7 @@ If your bot reaches 100 servers, you'll have to apply for verification from Disc
 
 Next up, open your terminal, run ```node index.js``` to start the bot. If you see "Ready!" after a few seconds, stuff's working, and your bot should appear online on Discord.
 
-
+If it does not work, try and follow all the installation steps once again, in order, and make sure your final result is something like this: [Basic Shell](https://github.com/Wolfhaize/Discord.JS-for-Noobs/tree/main/01-first-steps/basic-shell)
 
 That's it! You're basically a Discord Developer now. The next step will be creating commands for your bot.
 
