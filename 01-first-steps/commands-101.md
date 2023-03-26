@@ -4,7 +4,7 @@ You'll want to use slash commands over the ordinary manual commands. Why?
 
 Because Discord says so, and its kinda easier.
 
-One of the biggest issues I've found while trying to find help with command creation is that a lot of examples/solutions to problems you face were done ages ago, and are probably outdated or simply not geared towards the ordinary discord.js bot. I'll tryto update things here whenever an changes are made that may disrupt the way the commands work.
+One of the biggest issues I've found while trying to find help with command creation is that a lot of examples/solutions to problems you face were done ages ago, and are probably outdated or simply not geared towards the ordinary discord.js bot. I'll try to update things here whenever changes are made that may disrupt the way the commands work.
 
 ## Create a Commands folder
 For organisational purposes, create a folder named `commands` where the individual code for all your slash commands will go.
@@ -72,7 +72,7 @@ client.on(Events.InteractionCreate, async interaction => {
 
 client.login(token);
 ```
-
+~~See I started numbering the lines, but then got lazy.~~
 
 
 ## Basic Ping Command
