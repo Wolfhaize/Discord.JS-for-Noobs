@@ -44,7 +44,7 @@ If you've gotten this far, you should have your bot already in a discord server,
 
 # Actual Code Starts Here
 
-First thing is to create a way for you to actually access your bot, and that's through its token. Go to the [Discord Developer Portal](https://discord.com/developers/applications), head on to the 'Bot' page for whichever bot you'll e working on, and copy the token there. 
+First thing is to create a way for you to actually access your bot, and that's through its token. Go to the [Discord Developer Portal](https://discord.com/developers/applications), head on to the 'Bot' page for whichever bot you'll be working on, and copy the token there. 
 
 **Note**
 If your bot token gets leaked, reset it. Preferably, don't share it with anyone as it will grant them access to your bot. And don't share it anywhere public either, like GitHub.
@@ -56,7 +56,7 @@ If your bot token gets leaked, reset it. Preferably, don't share it with anyone 
 }
 ```
 
-There's other alternatives to using a ```config.json``` file, but I've found it to be the easiest aprroach.
+There's other alternatives to using a ```config.json``` file, but I've found it to be the easiest approach.
 
 
 ## Main file
