@@ -48,6 +48,10 @@ This mostly appears because Discord requires your bot to respond within *three s
 If we are to take the above ping command and defer its reply, we have:
 
 ```javascript
+const wait = require('node:timers/promises').setTimeout; //added to the top
+
+// other code here as shown before
+
 await interaction.deferReply();
 await wait(4000);
 await interaction.editReply('Pong!');
