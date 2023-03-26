@@ -65,7 +65,7 @@ await interaction.editReply('Pong!');
 ```
 
 ## Follow Up Responses
-This is for if you want to send additional responses to the intial response.
+This is for if you want to send additional responses to the initial response.
 
 ```javascript
 await interaction.reply('Pong!');
